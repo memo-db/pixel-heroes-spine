@@ -1,0 +1,134 @@
+{
+    font-family: sans-serif;
+}
+html {
+    box-sizing: border-box;
+    height: 100%;
+    margin: 0;
+}
+body {
+    box-sizing: border-box;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background: #263238;
+}
+button, input[type="submit"], input[type="reset"] {
+    background: none;
+    color: #80CBC4;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+.title {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    align-items: center;
+}
+.title a {
+    color: #80CBC4;
+    text-decoration: inherit;
+    font-size: 1.5em;
+}
+.title a:hover {
+    color: #80CBC4;
+}
+.item_radio input[type=radio] {
+    display: none;
+}
+.item_radio:hover {
+    color: #80CBC4;
+}
+.item_radio input[type=radio]:checked+span {
+    color: #80CBC4;
+}
+.table_header, #input4radio>div {
+    display: flex;
+}
+.item_id {
+    flex: 8;
+    padding: 2px;
+}
+.item_name {
+    flex: 6;
+    padding: 2px;
+}
+.item_content_rating, .item_rating {
+    flex: 1;
+    padding: 2px;
+}
+#input4radio label {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    padding: 1px;
+    cursor: pointer;
+}
+#spine_canvas {
+    box-sizing: border-box;
+    background: #222d33;
+}
+.right_panel {
+    padding: 4px;
+    background: darkgrey;
+    box-sizing: border-box;
+    overflow: auto;
+    color: #4C7870;
+    background: #222d33;
+}
+#list li {
+    list-style: none;
+}
+#console {
+    background: #3C3F41;
+}
+#header {
+    text-align: center;
+    margin: 0.5em;
+}
+@media all and (orientation: landscape) {
+    #spine_canvas {
+        float: left;
+        margin: 1em;
+        width: calc(75% - 1.5em);
+        height: calc(100% - 2em);
+    }
+    .right_panel {
+        float: right;
+        margin: 1em 1em 1em 0;
+        width: calc(25% - 1.5em);
+        height: calc(100% - 2em);
+    }
+    .UrlBox {
+        margin: 1em;
+        align-content: center;
+    }
+    #console {
+        height: calc(100% - 6em);
+        overflow-y: scroll;
+    }
+    #header {
+        height: 1em;
+        font-size: 1em;
+    }
+}
+@media all and (orientation: portrait) {
+    #spine_canvas {
+        margin: 1em;
+        width: calc(100% - 2em);
+        height: calc(75% - 1.5em);
+    }
+    .right_panel {
+        margin: 0 1em 1em 1em;
+        width: calc(100% - 2em);
+        height: calc(25% - 1.5em);
+    }
+    .UrlBox {
+        height: 2em;
+        margin: 1em 5em 1em 5em;
+        align-content: center;
+    }
+}

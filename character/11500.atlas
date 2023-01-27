@@ -1,0 +1,111 @@
+
+11500.png
+size: 1227,901
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shilaimu_0
+  rotate: true
+  xy: 651, 792
+  size: 108, 148
+  orig: 168, 179
+  offset: 21, 0
+  index: -1
+shilaimu_1
+  rotate: false
+  xy: 1143, 268
+  size: 81, 216
+  orig: 98, 240
+  offset: 6, 10
+  index: -1
+shilaimu_10
+  rotate: false
+  xy: 2, 35
+  size: 1019, 866
+  orig: 1031, 911
+  offset: 0, 44
+  index: -1
+shilaimu_11
+  rotate: 180
+  xy: 849, 67
+  size: 225, 263
+  orig: 225, 267
+  offset: 0, 0
+  index: -1
+shilaimu_12
+  rotate: false
+  xy: 125, 795
+  size: 113, 104
+  orig: 113, 104
+  offset: 0, 0
+  index: -1
+shilaimu_2
+  rotate: false
+  xy: 851, 430
+  size: 331, 470
+  orig: 361, 566
+  offset: 13, 44
+  index: -1
+shilaimu_3
+  rotate: false
+  xy: 1076, 11
+  size: 69, 98
+  orig: 71, 125
+  offset: 2, 0
+  index: -1
+shilaimu_4
+  rotate: false
+  xy: 885, 16
+  size: 71, 84
+  orig: 160, 172
+  offset: 33, 60
+  index: -1
+shilaimu_5
+  rotate: false
+  xy: 2, 181
+  size: 75, 113
+  orig: 105, 134
+  offset: 30, 0
+  index: -1
+shilaimu_6
+  rotate: true
+  xy: 2, 4
+  size: 198, 314
+  orig: 277, 361
+  offset: 46, 14
+  index: -1
+shilaimu_7
+  rotate: false
+  xy: 1046, 268
+  size: 105, 160
+  orig: 153, 201
+  offset: 44, 21
+  index: -1
+shilaimu_9
+  rotate: false
+  xy: 764, 5
+  size: 119, 123
+  orig: 119, 123
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: true
+  xy: 988, 597
+  size: 304, 237
+  orig: 359, 267
+  offset: 12, 15
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 753
+  size: 121, 146
+  orig: 121, 146
+  offset: 0, 0
+  index: -1
+yanying
+  rotate: false
+  xy: 1076, 110
+  size: 131, 156
+  orig: 134, 160
+  offset: 0, 4
+  index: -1
