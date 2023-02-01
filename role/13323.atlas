@@ -1,0 +1,55 @@
+
+13323.png
+size: 180,758
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiji
+  rotate: false
+  xy: 136, 70
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+bf1
+  rotate: false
+  xy: 2, 450
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bf2
+  rotate: true
+  xy: 2, 104
+  size: 112, 136
+  orig: 112, 136
+  offset: 0, 0
+  index: -1
+bf3
+  rotate: true
+  xy: 2, 2
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+bf5
+  rotate: false
+  xy: 2, 218
+  size: 144, 108
+  orig: 144, 108
+  offset: 0, 0
+  index: -1
+bf6
+  rotate: false
+  xy: 2, 328
+  size: 136, 120
+  orig: 136, 120
+  offset: 0, 0
+  index: -1
+tuoweid
+  rotate: false
+  xy: 2, 580
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1

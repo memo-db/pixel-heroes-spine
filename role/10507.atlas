@@ -1,0 +1,111 @@
+
+10507.png
+size: 741,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 132, 5
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 226, 5
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+liulei
+  rotate: true
+  xy: 320, 5
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: 180
+  xy: 587, 9
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 2, 9
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+yang
+  rotate: false
+  xy: 508, 3
+  size: 88, 111
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 651, 62
+  size: 32, 28
+  orig: 32, 32
+  offset: 0, 4
+  index: -1
+youdatui
+  rotate: false
+  xy: 683, 73
+  size: 31, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 642, 12
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 714, 61
+  size: 26, 24
+  orig: 28, 24
+  offset: 2, 0
+  index: -1
+zhangzui
+  rotate: true
+  xy: 414, 5
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 688, 19
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 2, 11
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 597, 69
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 688, 46
+  size: 26, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

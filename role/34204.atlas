@@ -1,0 +1,160 @@
+
+34204.png
+size: 2031,790
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J1
+  rotate: false
+  xy: 592, 744
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+J10
+  rotate: false
+  xy: 1343, 736
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+J11
+  rotate: false
+  xy: 1569, 744
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+J12
+  rotate: true
+  xy: 1787, 53
+  size: 184, 228
+  orig: 184, 228
+  offset: 0, 0
+  index: -1
+J2
+  rotate: false
+  xy: 2, 744
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+J3
+  rotate: true
+  xy: 2, 56
+  size: 234, 268
+  orig: 248, 268
+  offset: 0, 0
+  index: -1
+J4
+  rotate: false
+  xy: 1531, 736
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+J5
+  rotate: false
+  xy: 1631, 744
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+J6
+  rotate: false
+  xy: 342, 43
+  size: 184, 228
+  orig: 184, 228
+  offset: 0, 0
+  index: -1
+J7
+  rotate: false
+  xy: 1130, 744
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+J8
+  rotate: false
+  xy: 392, 744
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+J9
+  rotate: false
+  xy: 1503, 123
+  size: 232, 268
+  orig: 248, 268
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: false
+  xy: 1737, 222
+  size: 292, 300
+  orig: 296, 300
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 1003, 19
+  size: 260, 216
+  orig: 268, 216
+  offset: 8, 0
+  index: -1
+body_13
+  rotate: false
+  xy: 1185, 652
+  size: 156, 136
+  orig: 156, 136
+  offset: 0, 0
+  index: -1
+body_14
+  rotate: 180
+  xy: 335, 440
+  size: 268, 348
+  orig: 268, 348
+  offset: 0, 0
+  index: -1
+body_15
+  rotate: true
+  xy: 518, 3
+  size: 268, 280
+  orig: 268, 280
+  offset: 0, 0
+  index: -1
+body_16
+  rotate: false
+  xy: 2, 84
+  size: 1000, 704
+  orig: 1000, 704
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: 270
+  xy: 1583, 478
+  size: 311, 351
+  orig: 312, 356
+  offset: 0, 5
+  index: -1
+body_5
+  rotate: 270
+  xy: 1199, 161
+  size: 628, 504
+  orig: 640, 504
+  offset: 0, 0
+  index: -1
+body_8
+  rotate: false
+  xy: 605, 384
+  size: 620, 404
+  orig: 620, 404
+  offset: 0, 0
+  index: -1
+wq
+  rotate: false
+  xy: 56, 786
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

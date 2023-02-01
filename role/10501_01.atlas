@@ -1,0 +1,167 @@
+
+10501_01.png
+size: 490,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10501_biyan
+  rotate: false
+  xy: 344, 123
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+10501_fennu
+  rotate: false
+  xy: 354, 21
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+10501_qunbai
+  rotate: false
+  xy: 341, 169
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+10501_shoushang
+  rotate: false
+  xy: 383, 67
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+10501_tou
+  rotate: false
+  xy: 390, 113
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+10501_toufa
+  rotate: true
+  xy: 155, 84
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+10501_toufa_hy
+  rotate: false
+  xy: 270, 112
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+10501_toufa_hz
+  rotate: 180
+  xy: 228, 3
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+10501_xiong
+  rotate: true
+  xy: 400, 25
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+10501_youbi
+  rotate: 270
+  xy: 448, 58
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+10501_youshou
+  rotate: true
+  xy: 445, 142
+  size: 31, 27
+  orig: 32, 27
+  offset: 1, 0
+  index: -1
+10501_youtui
+  rotate: false
+  xy: 411, 159
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+10501_youzhang
+  rotate: false
+  xy: 339, 4
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+10501_zuobi
+  rotate: true
+  xy: 445, 171
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+10501_zuoshou
+  rotate: true
+  xy: 463, 82
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+10501_zuotui
+  rotate: false
+  xy: 436, 99
+  size: 25, 40
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+10501_zuozhang
+  rotate: false
+  xy: 155, 134
+  size: 17, 21
+  orig: 20, 24
+  offset: 3, 3
+  index: -1
+ailin_14
+  rotate: false
+  xy: 2, 84
+  size: 151, 116
+  orig: 153, 118
+  offset: 1, 1
+  index: -1
+ailin_16
+  rotate: true
+  xy: 2, 6
+  size: 76, 224
+  orig: 78, 226
+  offset: 1, 1
+  index: -1
+ailin_19
+  rotate: 270
+  xy: 298, 17
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+ailin_20
+  rotate: false
+  xy: 324, 67
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+ailin_21
+  rotate: false
+  xy: 462, 6
+  size: 25, 25
+  orig: 30, 27
+  offset: 4, 1
+  index: -1
+ailin_22
+  rotate: true
+  xy: 414, 7
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1

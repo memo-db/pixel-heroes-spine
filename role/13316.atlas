@@ -1,0 +1,27 @@
+
+13316.png
+size: 167,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiji
+  rotate: true
+  xy: 120, 3
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 139, 73
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 5
+  size: 135, 151
+  orig: 135, 151
+  offset: 0, 0
+  index: -1

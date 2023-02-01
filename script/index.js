@@ -1,14 +1,25 @@
 var sort_by = "id";
-var key_name = "character";
-const button_sort = document.getElementsByClassName("button_sort");
-for (var i = 0; i < button_sort.length; i++) {
-    button_sort[i].addEventListener('click', function(e) {
-        sort_by = e.target.getAttribute("data");
-        create_table();
-    });
-};
+var category = "character";
+new function addEventListener() {
+    const button_sort = document.getElementsByClassName("button_sort");
+    for (var i = 0; i < button_sort.length; i++) {
+        button_sort[i].addEventListener('click', function(e) {
+            sort_by = e.target.getAttribute("data");
+            create_table();
+        });
+    };
+}
 
-function create_table() {
+function getUrlValue(key) {
+    var url = new URL(window.location.href);
+    return url.searchParams.get(key);
+}
+new function removeUrlExtension() {
+    var url = window.location.href;
+    url = url.replace('index.html', '');
+    window.history.replaceState(null, null, url);
+}
+new function createTable() {
     const form = document.querySelector('#input4radio');
     form.innerHTML = '';
     fetch('data/data.json').then((response) => response.json()).then((inventoryItems) => {
@@ -27,7 +38,7 @@ function create_table() {
             }
         };
 
-        function create_item() {
+        function createItem() {
             let newItem = document.createElement('div');
             newItem.classList.add('item_radio');
             newItem.innerHTML = `
@@ -52,22 +63,36 @@ function create_table() {
             `
             form.appendChild(newItem);
         }
-        if (key_name == "character") {
+        if (category == "character") {
             inventoryItems.character.sort(date_sort);
             for (item of inventoryItems.character) {
-                create_item();
+                createItem();
             }
-            form.oninput = e => {
-                loading_model(form.inventoryItems.value);
+        }
+        if (category == "role") {
+            inventoryItems.role.sort(date_sort);
+            for (item of inventoryItems.role) {
+                createItem();
+            }
+        }
+        form.oninput = e => {
+            loadingModel(form.inventoryItems.value);
+            var url = window.location.href;
+            if (url.match(/\/$/) != null) {
+                url = url.replace(/\/$/, '/?id=' + form.inventoryItems.value);
+                window.history.pushState(null, null, url);
+            } else {
+                url = url.replace(/\/\?.*/, '/?id=' + form.inventoryItems.value);
+                window.history.pushState(null, null, url);
             }
         }
 
-        function loading_model(value) {
+        function loadingModel(value) {
             const spine_canvas = document.querySelector('#spine_canvas');
             spine_canvas.innerHTML = '';
-            new spine.SpinePlayer("spine_canvas", {
-                skelUrl: 'character/' + value + '.skel',
-                atlasUrl: 'character/' + value + '.atlas',
+            new spine.SpinePlayer('spine_canvas', {
+                skelUrl: category + '/' + value + '.skel',
+                atlasUrl: category + '/' + value + '.atlas',
                 premultipliedAlpha: false,
                 showControls: false,
                 backgroundColor: "#00000000",
@@ -80,6 +105,13 @@ function create_table() {
                 }
             });
         }
+        new function loadingUrlValue() {
+            var url = window.location.href;
+            var origin = window.location.origin + "/";
+            if (url != origin) {
+                document.getElementById(getUrlValue('id')).checked = true;
+                loadingModel(getUrlValue('id'));
+            }
+        }
     });
 };
-create_table();

@@ -1,0 +1,41 @@
+
+13345.png
+size: 565,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 35
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 424, 53
+  size: 68, 160
+  orig: 68, 160
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: false
+  xy: 2, 3
+  size: 220, 211
+  orig: 220, 216
+  offset: 0, 5
+  index: -1
+body_1
+  rotate: 180
+  xy: 202, 3
+  size: 220, 211
+  orig: 220, 216
+  offset: 0, 5
+  index: -1
+body_2
+  rotate: false
+  xy: 494, 53
+  size: 68, 160
+  orig: 68, 160
+  offset: 0, 0
+  index: -1

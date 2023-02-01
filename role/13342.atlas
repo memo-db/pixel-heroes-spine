@@ -1,0 +1,27 @@
+
+13342.png
+size: 258,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: 180
+  xy: 226, 32
+  size: 29, 96
+  orig: 29, 96
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 3
+  size: 131, 140
+  orig: 131, 147
+  offset: 0, 7
+  index: -1
+3
+  rotate: 180
+  xy: 101, 3
+  size: 131, 140
+  orig: 131, 147
+  offset: 0, 7
+  index: -1

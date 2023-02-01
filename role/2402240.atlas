@@ -1,0 +1,20 @@
+
+2402240.png
+size: 185,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 134, 21
+  size: 48, 160
+  orig: 48, 160
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: false
+  xy: 2, 3
+  size: 130, 178
+  orig: 130, 178
+  offset: 0, 0
+  index: -1

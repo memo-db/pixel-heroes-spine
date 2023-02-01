@@ -1,0 +1,223 @@
+
+35201.png
+size: 1448,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dhj_00
+  rotate: false
+  xy: 224, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_01
+  rotate: false
+  xy: 224, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_02
+  rotate: false
+  xy: 360, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_03
+  rotate: false
+  xy: 224, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_04
+  rotate: false
+  xy: 360, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_05
+  rotate: false
+  xy: 496, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_06
+  rotate: false
+  xy: 360, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_07
+  rotate: false
+  xy: 496, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_08
+  rotate: false
+  xy: 632, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_09
+  rotate: false
+  xy: 496, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_10
+  rotate: false
+  xy: 632, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_11
+  rotate: false
+  xy: 768, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_12
+  rotate: false
+  xy: 632, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_13
+  rotate: false
+  xy: 768, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_14
+  rotate: false
+  xy: 904, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_15
+  rotate: false
+  xy: 768, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_16
+  rotate: false
+  xy: 904, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_17
+  rotate: false
+  xy: 1040, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_18
+  rotate: false
+  xy: 904, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_19
+  rotate: false
+  xy: 1040, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_20
+  rotate: false
+  xy: 1176, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_21
+  rotate: false
+  xy: 1040, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_22
+  rotate: false
+  xy: 1176, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_23
+  rotate: false
+  xy: 1312, 726
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_24
+  rotate: false
+  xy: 1176, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_25
+  rotate: false
+  xy: 1312, 432
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_26
+  rotate: false
+  xy: 1312, 138
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_27
+  rotate: true
+  xy: 224, 2
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_28
+  rotate: true
+  xy: 518, 2
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+effect/dhj_29
+  rotate: true
+  xy: 812, 2
+  size: 134, 292
+  orig: 142, 320
+  offset: 2, 10
+  index: -1
+hong2
+  rotate: false
+  xy: 2, 73
+  size: 220, 945
+  orig: 222, 947
+  offset: 1, 1
+  index: -1

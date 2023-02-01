@@ -1,0 +1,146 @@
+
+13329.png
+size: 1500,1931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/keda_1
+  rotate: true
+  xy: 111, 37
+  size: 406, 234
+  orig: 406, 250
+  offset: 0, 16
+  index: -1
+images/keda_10
+  rotate: false
+  xy: 2, 578
+  size: 162, 158
+  orig: 162, 158
+  offset: 0, 0
+  index: -1
+images/keda_11
+  rotate: 270
+  xy: 1193, 582
+  size: 329, 294
+  orig: 329, 294
+  offset: 0, 0
+  index: -1
+images/keda_12
+  rotate: true
+  xy: 1012, 877
+  size: 515, 458
+  orig: 515, 458
+  offset: 0, 0
+  index: -1
+images/keda_13
+  rotate: false
+  xy: 2, 255
+  size: 879, 1675
+  orig: 879, 1677
+  offset: 0, 0
+  index: -1
+images/keda_14
+  rotate: false
+  xy: 845, 90
+  size: 374, 238
+  orig: 374, 238
+  offset: 0, 0
+  index: -1
+images/keda_15
+  rotate: true
+  xy: 286, 55
+  size: 191, 378
+  orig: 191, 378
+  offset: 0, 0
+  index: -1
+images/keda_16
+  rotate: false
+  xy: 614, 1616
+  size: 298, 158
+  orig: 298, 158
+  offset: 0, 0
+  index: -1
+images/keda_18
+  rotate: true
+  xy: 1213, 3
+  size: 162, 270
+  orig: 162, 270
+  offset: 0, 0
+  index: -1
+images/keda_19
+  rotate: 270
+  xy: 2, 1314
+  size: 546, 214
+  orig: 546, 214
+  offset: 0, 0
+  index: -1
+images/keda_2
+  rotate: true
+  xy: 811, 340
+  size: 542, 394
+  orig: 542, 394
+  offset: 0, 0
+  index: -1
+images/keda_20
+  rotate: false
+  xy: 1084, 1410
+  size: 257, 146
+  orig: 257, 146
+  offset: 0, 0
+  index: -1
+images/keda_21
+  rotate: 270
+  xy: 1247, 1422
+  size: 507, 250
+  orig: 507, 250
+  offset: 0, 0
+  index: -1
+images/keda_3
+  rotate: 180
+  xy: 908, 1515
+  size: 442, 414
+  orig: 442, 414
+  offset: 0, 0
+  index: -1
+images/keda_4
+  rotate: true
+  xy: 1172, 167
+  size: 314, 318
+  orig: 314, 318
+  offset: 0, 0
+  index: -1
+images/keda_6
+  rotate: true
+  xy: 1172, 167
+  size: 314, 318
+  orig: 314, 318
+  offset: 0, 0
+  index: -1
+images/keda_5
+  rotate: true
+  xy: 2, 171
+  size: 642, 358
+  orig: 642, 358
+  offset: 0, 0
+  index: -1
+images/keda_7
+  rotate: true
+  xy: 2, 171
+  size: 642, 358
+  orig: 642, 358
+  offset: 0, 0
+  index: -1
+images/keda_8
+  rotate: 180
+  xy: 668, 884
+  size: 414, 762
+  orig: 414, 762
+  offset: 0, 0
+  index: -1
+images/keda_9
+  rotate: false
+  xy: 2, 738
+  size: 166, 186
+  orig: 166, 186
+  offset: 0, 0
+  index: -1

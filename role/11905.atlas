@@ -1,0 +1,174 @@
+
+11905.png
+size: 325,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: 270
+  xy: 174, 80
+  size: 104, 80
+  orig: 114, 90
+  offset: 5, 5
+  index: -1
+daiji
+  rotate: false
+  xy: 190, 237
+  size: 104, 80
+  orig: 114, 90
+  offset: 5, 5
+  index: -1
+jian_b
+  rotate: false
+  xy: 2, 93
+  size: 72, 224
+  orig: 72, 224
+  offset: 0, 0
+  index: -1
+jian_h
+  rotate: false
+  xy: 2, 93
+  size: 72, 224
+  orig: 72, 224
+  offset: 0, 0
+  index: -1
+liulei
+  rotate: true
+  xy: 227, 76
+  size: 104, 80
+  orig: 114, 90
+  offset: 5, 5
+  index: -1
+m_quan1
+  rotate: 180
+  xy: 268, 185
+  size: 52, 108
+  orig: 52, 108
+  offset: 0, 0
+  index: -1
+m_quan2
+  rotate: false
+  xy: 76, 101
+  size: 96, 216
+  orig: 96, 216
+  offset: 0, 0
+  index: -1
+m_shenti
+  rotate: 180
+  xy: 253, 49
+  size: 63, 52
+  orig: 72, 52
+  offset: 9, 0
+  index: -1
+m_yaodai
+  rotate: false
+  xy: 170, 40
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+m_youdabi
+  rotate: false
+  xy: 229, 190
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+m_youdatui
+  rotate: true
+  xy: 160, 6
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+m_youpiaodai
+  rotate: 180
+  xy: 99, 25
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+m_youtui
+  rotate: 270
+  xy: 291, 156
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+m_zuodabi
+  rotate: false
+  xy: 2, 35
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+m_zuodatui
+  rotate: true
+  xy: 76, 281
+  size: 36, 38
+  orig: 36, 44
+  offset: 0, 6
+  index: -1
+m_zuopiaodai
+  rotate: 180
+  xy: 76, 63
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+m_zuotui
+  rotate: false
+  xy: 76, 117
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 127, 158
+  size: 108, 100
+  orig: 108, 100
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: 270
+  xy: 238, 13
+  size: 37, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+tou4
+  rotate: 180
+  xy: 43, 12
+  size: 41, 68
+  orig: 48, 80
+  offset: 0, 8
+  index: -1
+y1
+  rotate: false
+  xy: 2, 6
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 293, 294
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 202, 13
+  size: 29, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 129, 3
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

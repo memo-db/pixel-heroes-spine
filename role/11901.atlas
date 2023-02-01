@@ -1,0 +1,69 @@
+
+11901.png
+size: 568,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dazhaoyang
+  rotate: false
+  xy: 2, 4
+  size: 200, 116
+  orig: 200, 116
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 462, 8
+  size: 112, 68
+  orig: 112, 68
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 518, 32
+  size: 88, 42
+  orig: 88, 42
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 204, 4
+  size: 169, 116
+  orig: 169, 116
+  offset: 0, 0
+  index: -1
+yang
+  rotate: false
+  xy: 372, 10
+  size: 88, 111
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+yangj1
+  rotate: false
+  xy: 440, 13
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+yangj2
+  rotate: false
+  xy: 360, 8
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+yangj3
+  rotate: true
+  xy: 553, 70
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+yangwb
+  rotate: false
+  xy: 532, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

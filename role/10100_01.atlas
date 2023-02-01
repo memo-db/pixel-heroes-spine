@@ -1,0 +1,160 @@
+
+10100_01.png
+size: 128,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10100_biyan
+  rotate: false
+  xy: 61, 7
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+10100_fennu
+  rotate: false
+  xy: 107, 67
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+10100_shenti
+  rotate: true
+  xy: 72, 559
+  size: 54, 42
+  orig: 56, 44
+  offset: 2, 2
+  index: -1
+10100_shenti_c
+  rotate: true
+  xy: 68, 235
+  size: 52, 45
+  orig: 52, 56
+  offset: 0, 11
+  index: -1
+10100_shoushang
+  rotate: false
+  xy: 2, 32
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+10100_tou
+  rotate: true
+  xy: 2, 378
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+10100_tou_c
+  rotate: true
+  xy: 2, 280
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+10100_toufa_h
+  rotate: 180
+  xy: 2, 163
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+10100_wq
+  rotate: false
+  xy: 2, 476
+  size: 68, 154
+  orig: 68, 154
+  offset: 0, 0
+  index: -1
+10100_wq_dun
+  rotate: true
+  xy: 2, 93
+  size: 69, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+10100_youbi
+  rotate: true
+  xy: 31, 5
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+10100_youjiao
+  rotate: true
+  xy: 44, 33
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+10100_youshou
+  rotate: true
+  xy: 96, 3
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+10100_youtui
+  rotate: false
+  xy: 77, 198
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+10100_youzhang
+  rotate: false
+  xy: 2, 9
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+10100_zuobi
+  rotate: false
+  xy: 73, 59
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+10100_zuojiao
+  rotate: false
+  xy: 104, 33
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+10100_zuoshou
+  rotate: false
+  xy: 74, 29
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+10100_zuotui
+  rotate: 270
+  xy: 2, 62
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+cb2
+  rotate: true
+  xy: 76, 476
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+cb4
+  rotate: true
+  xy: 92, 289
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: 270
+  xy: 95, 396
+  size: 70, 28
+  orig: 72, 28
+  offset: 2, 0
+  index: -1

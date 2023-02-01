@@ -1,0 +1,27 @@
+
+13341.png
+size: 762,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: false
+  xy: 647, 235
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 2, 3
+  size: 376, 345
+  orig: 376, 352
+  offset: 0, 7
+  index: -1
+h3
+  rotate: 180
+  xy: 314, 3
+  size: 376, 345
+  orig: 376, 352
+  offset: 0, 7
+  index: -1

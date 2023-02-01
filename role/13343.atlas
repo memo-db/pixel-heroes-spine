@@ -1,0 +1,34 @@
+
+13343.png
+size: 360,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sw1
+  rotate: false
+  xy: 301, 64
+  size: 56, 58
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+sw2
+  rotate: false
+  xy: 255, 21
+  size: 44, 100
+  orig: 44, 100
+  offset: 0, 0
+  index: -1
+sw3
+  rotate: false
+  xy: 2, 3
+  size: 132, 119
+  orig: 132, 128
+  offset: 0, 9
+  index: -1
+sw4
+  rotate: 180
+  xy: 121, 3
+  size: 132, 119
+  orig: 132, 128
+  offset: 0, 9
+  index: -1

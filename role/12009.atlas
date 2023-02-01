@@ -1,0 +1,118 @@
+
+12009.png
+size: 86,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12009_10
+  rotate: false
+  xy: 38, 3
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+12009_11
+  rotate: true
+  xy: 57, 230
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+12009_12
+  rotate: true
+  xy: 2, 3
+  size: 30, 35
+  orig: 30, 38
+  offset: 0, 3
+  index: -1
+12009_13
+  rotate: false
+  xy: 58, 94
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+12009_14
+  rotate: false
+  xy: 2, 289
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+12009_15
+  rotate: 270
+  xy: 21, 150
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+12009_6
+  rotate: true
+  xy: 2, 242
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+12009_7
+  rotate: false
+  xy: 2, 66
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+12009_8
+  rotate: false
+  xy: 2, 194
+  size: 57, 46
+  orig: 58, 46
+  offset: 1, 0
+  index: -1
+12009_9
+  rotate: false
+  xy: 2, 114
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+biaoqing1
+  rotate: false
+  xy: 2, 757
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+biaoqing2
+  rotate: false
+  xy: 2, 671
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+biaoqing3
+  rotate: false
+  xy: 2, 585
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+biaoqing4
+  rotate: false
+  xy: 2, 499
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+maozi1
+  rotate: true
+  xy: 2, 349
+  size: 148, 76
+  orig: 148, 76
+  offset: 0, 0
+  index: -1
+maozidi
+  rotate: false
+  xy: 2, 35
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1

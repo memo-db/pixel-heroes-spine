@@ -1,0 +1,62 @@
+
+2402230.png
+size: 86,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+34203_ls_0
+  rotate: true
+  xy: 2, 113
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+34203_ls_01
+  rotate: false
+  xy: 2, 190
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+34203_ls_1
+  rotate: false
+  xy: 2, 24
+  size: 38, 43
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+34203_ls_2
+  rotate: 180
+  xy: 2, 69
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+34203_ls_3
+  rotate: false
+  xy: 41, 39
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+34203_ls_4
+  rotate: true
+  xy: 35, 179
+  size: 22, 30
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+34203_ls_5
+  rotate: false
+  xy: 58, 77
+  size: 22, 32
+  orig: 26, 34
+  offset: 0, 2
+  index: -1
+34203_ls_6
+  rotate: true
+  xy: 42, 3
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+13346.png
+size: 478,634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 312
+  size: 404, 320
+  orig: 404, 320
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 36
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 371, 15
+  size: 68, 204
+  orig: 68, 204
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 408, 221
+  size: 68, 204
+  orig: 68, 204
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 2, 3
+  size: 404, 308
+  orig: 404, 320
+  offset: 0, 12
+  index: -1

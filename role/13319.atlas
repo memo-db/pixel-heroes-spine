@@ -1,0 +1,27 @@
+
+13319.png
+size: 214,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiji
+  rotate: true
+  xy: 148, 30
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 148, 8
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 2
+  size: 144, 96
+  orig: 144, 119
+  offset: 0, 0
+  index: -1

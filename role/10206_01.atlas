@@ -1,0 +1,153 @@
+
+10206_01.png
+size: 129,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: true
+  xy: 2, 66
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+1cb
+  rotate: true
+  xy: 2, 171
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2, 616
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+cb2
+  rotate: 180
+  xy: 2, 135
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2, 522
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+fennu
+  rotate: false
+  xy: 2, 428
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 86, 216
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 180
+  xy: 70, 74
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+shoushang
+  rotate: false
+  xy: 2, 334
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 2, 240
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 2, 36
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 99, 263
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 104, 42
+  size: 21, 28
+  orig: 24, 28
+  offset: 3, 0
+  index: -1
+youyifu1
+  rotate: true
+  xy: 87, 13
+  size: 29, 38
+  orig: 32, 40
+  offset: 1, 2
+  index: -1
+youyifu2
+  rotate: 180
+  xy: 30, 105
+  size: 52, 38
+  orig: 52, 40
+  offset: 0, 2
+  index: -1
+yz
+  rotate: true
+  xy: 85, 120
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 33, 3
+  size: 24, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+zuodatui1
+  rotate: 180
+  xy: 97, 296
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 40, 22
+  size: 46, 24
+  orig: 48, 24
+  offset: 2, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 2, 6
+  size: 30, 29
+  orig: 32, 32
+  offset: 0, 3
+  index: -1
+zuoyifu1
+  rotate: true
+  xy: 52, 42
+  size: 40, 50
+  orig: 40, 52
+  offset: 0, 0
+  index: -1

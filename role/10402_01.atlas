@@ -1,0 +1,146 @@
+
+10402_01.png
+size: 163,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10402_biyan
+  rotate: true
+  xy: 32, 6
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+10402_erduo_y
+  rotate: false
+  xy: 38, 52
+  size: 76, 63
+  orig: 76, 64
+  offset: 0, 1
+  index: -1
+10402_erduo_z
+  rotate: 270
+  xy: 94, 180
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+10402_fennu
+  rotate: false
+  xy: 82, 6
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+10402_qiubai
+  rotate: true
+  xy: 2, 44
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+10402_shoushang
+  rotate: false
+  xy: 94, 130
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+10402_tou
+  rotate: false
+  xy: 112, 234
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+10402_toufa
+  rotate: true
+  xy: 2, 116
+  size: 100, 90
+  orig: 100, 92
+  offset: 0, 2
+  index: -1
+10402_toufah
+  rotate: true
+  xy: 56, 218
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+10402_weiba
+  rotate: true
+  xy: 56, 296
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+10402_xiong
+  rotate: true
+  xy: 116, 55
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+10402_youbi
+  rotate: false
+  xy: 128, 25
+  size: 27, 28
+  orig: 28, 28
+  offset: 1, 0
+  index: -1
+10402_youjiao
+  rotate: true
+  xy: 133, 105
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+10402_youshou
+  rotate: true
+  xy: 114, 285
+  size: 42, 30
+  orig: 44, 32
+  offset: 2, 2
+  index: -1
+10402_youtui
+  rotate: false
+  xy: 2, 10
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+10402_zuobi
+  rotate: false
+  xy: 128, 3
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+10402_zuojiao
+  rotate: false
+  xy: 140, 131
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+10402_zuoshou
+  rotate: false
+  xy: 127, 328
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+10402_zuotui
+  rotate: true
+  xy: 107, 105
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+saoba
+  rotate: false
+  xy: 2, 208
+  size: 52, 160
+  orig: 52, 160
+  offset: 0, 0
+  index: -1

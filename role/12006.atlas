@@ -1,0 +1,146 @@
+
+12006.png
+size: 198,437
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 172, 271
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 48
+  size: 36, 140
+  orig: 36, 140
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 172, 297
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 173, 189
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 104, 189
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2, 168
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+fazhenlan
+  rotate: false
+  xy: 2, 315
+  size: 122, 120
+  orig: 128, 128
+  offset: 3, 4
+  index: -1
+fennu
+  rotate: false
+  xy: 84, 120
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 166, 117
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+liulei
+  rotate: true
+  xy: 2, 86
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+maozishang
+  rotate: false
+  xy: 2, 237
+  size: 151, 76
+  orig: 151, 76
+  offset: 0, 0
+  index: -1
+maozixia
+  rotate: false
+  xy: 2, 6
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 93, 2
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 126, 294
+  size: 44, 140
+  orig: 44, 140
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 172, 323
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 143, 8
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 171, 167
+  size: 21, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 172, 345
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: 180
+  xy: 135, 62
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 2, 251
+  size: 30, 20
+  orig: 32, 20
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+11422.png
+size: 170,735
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11422_biyan
+  rotate: false
+  xy: 2, 22
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+11422_fennu
+  rotate: false
+  xy: 37, 581
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+11422_jianjia
+  rotate: 270
+  xy: 70, 53
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+11422_qunbai
+  rotate: true
+  xy: 2, 513
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+11422_shoushang
+  rotate: false
+  xy: 120, 324
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+11422_tou
+  rotate: true
+  xy: 2, 252
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+11422_tou_c
+  rotate: false
+  xy: 2, 605
+  size: 120, 128
+  orig: 122, 130
+  offset: 1, 1
+  index: -1
+11422_wq
+  rotate: false
+  xy: 81, 468
+  size: 85, 265
+  orig: 98, 265
+  offset: 13, 0
+  index: -1
+11422_xiong
+  rotate: false
+  xy: 2, 136
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+11422_xiong_c
+  rotate: false
+  xy: 2, 367
+  size: 112, 112
+  orig: 114, 114
+  offset: 1, 1
+  index: -1
+11422_youbi
+  rotate: false
+  xy: 112, 195
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+11422_youjiao
+  rotate: 180
+  xy: 120, 19
+  size: 48, 40
+  orig: 58, 42
+  offset: 10, 2
+  index: -1
+11422_youshou
+  rotate: false
+  xy: 116, 368
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+11422_youtui
+  rotate: 180
+  xy: 47, 33
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+11422_youzhang
+  rotate: false
+  xy: 116, 412
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+11422_zuobi
+  rotate: false
+  xy: 2, 56
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+11422_zuojiao
+  rotate: true
+  xy: 94, 4
+  size: 46, 27
+  orig: 46, 30
+  offset: 0, 3
+  index: -1
+11422_zuoshou
+  rotate: false
+  xy: 50, 5
+  size: 44, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+11422_zuotui
+  rotate: true
+  xy: 122, 139
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+11422_zuozhang
+  rotate: true
+  xy: 129, 251
+  size: 52, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1

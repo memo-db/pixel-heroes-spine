@@ -1,0 +1,146 @@
+
+34002.png
+size: 427,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_0
+  rotate: false
+  xy: 2, 391
+  size: 409, 418
+  orig: 454, 476
+  offset: 24, 27
+  index: -1
+body_1
+  rotate: 270
+  xy: 16, 40
+  size: 72, 144
+  orig: 72, 144
+  offset: 0, 0
+  index: -1
+body_10
+  rotate: true
+  xy: 258, 3
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+body_11
+  rotate: true
+  xy: 2, 683
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+body_12
+  rotate: true
+  xy: 2, 389
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+body_13
+  rotate: true
+  xy: 152, 743
+  size: 66, 120
+  orig: 68, 120
+  offset: 2, 0
+  index: -1
+body_14
+  rotate: false
+  xy: 384, 601
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+body_15
+  rotate: true
+  xy: 19, 250
+  size: 302, 397
+  orig: 332, 442
+  offset: 12, 29
+  index: -1
+body_16
+  rotate: true
+  xy: 2, 728
+  size: 80, 148
+  orig: 80, 148
+  offset: 0, 0
+  index: -1
+body_17
+  rotate: 180
+  xy: 181, 452
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+body_18
+  rotate: 270
+  xy: 352, 340
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 310, 282
+  size: 102, 56
+  orig: 108, 56
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: 270
+  xy: 249, 535
+  size: 80, 148
+  orig: 80, 148
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: 180
+  xy: 333, 37
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: 270
+  xy: 184, 33
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+body_6
+  rotate: false
+  xy: 249, 76
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+body_7
+  rotate: true
+  xy: 2, 99
+  size: 172, 252
+  orig: 172, 252
+  offset: 0, 0
+  index: -1
+body_8
+  rotate: false
+  xy: 256, 162
+  size: 152, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+body_9
+  rotate: false
+  xy: 355, 5
+  size: 68, 50
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+wq
+  rotate: false
+  xy: 2, 806
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

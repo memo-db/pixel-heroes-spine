@@ -1,0 +1,111 @@
+
+34001.png
+size: 1120,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+by
+  rotate: true
+  xy: 448, 81
+  size: 186, 171
+  orig: 232, 176
+  offset: 45, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 63
+  size: 512, 304
+  orig: 512, 304
+  offset: 0, 0
+  index: -1
+dj
+  rotate: 270
+  xy: 591, 182
+  size: 186, 171
+  orig: 232, 176
+  offset: 45, 0
+  index: -1
+fn
+  rotate: 270
+  xy: 738, 75
+  size: 186, 171
+  orig: 232, 176
+  offset: 45, 0
+  index: -1
+h1
+  rotate: 270
+  xy: 983, 176
+  size: 176, 100
+  orig: 176, 100
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 479, 3
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 829, 239
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 1017, 74
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 351, 14
+  size: 131, 103
+  orig: 164, 108
+  offset: 22, 5
+  index: -1
+yezi1
+  rotate: true
+  xy: 911, 70
+  size: 180, 104
+  orig: 180, 104
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 792, 4
+  size: 132, 88
+  orig: 132, 88
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: 180
+  xy: 600, 37
+  size: 167, 117
+  orig: 173, 124
+  offset: 6, 7
+  index: -1
+yezi4
+  rotate: false
+  xy: 2, 22
+  size: 116, 136
+  orig: 116, 136
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 4, 339
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 120, 20
+  size: 71, 55
+  orig: 72, 56
+  offset: 0, 1
+  index: -1

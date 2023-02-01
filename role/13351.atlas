@@ -1,0 +1,48 @@
+
+13351.png
+size: 238,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 296
+  size: 220, 152
+  orig: 220, 152
+  offset: 0, 0
+  index: -1
+em1
+  rotate: true
+  xy: 2, 76
+  size: 64, 156
+  orig: 64, 156
+  offset: 0, 0
+  index: -1
+em2
+  rotate: false
+  xy: 2, 142
+  size: 220, 152
+  orig: 220, 152
+  offset: 0, 0
+  index: -1
+em3
+  rotate: true
+  xy: 2, 2
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+em4
+  rotate: false
+  xy: 160, 64
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+em5
+  rotate: false
+  xy: 80, 16
+  size: 76, 59
+  orig: 76, 88
+  offset: 0, 0
+  index: -1

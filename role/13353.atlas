@@ -1,0 +1,76 @@
+
+13353.png
+size: 141,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amd_0
+  rotate: 270
+  xy: 28, 50
+  size: 68, 91
+  orig: 68, 100
+  offset: 0, 9
+  index: -1
+amd_1
+  rotate: 270
+  xy: 2, 261
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+amd_2
+  rotate: true
+  xy: 2, 343
+  size: 104, 132
+  orig: 104, 132
+  offset: 0, 0
+  index: -1
+amd_3
+  rotate: false
+  xy: 2, 449
+  size: 136, 156
+  orig: 136, 156
+  offset: 0, 0
+  index: -1
+amd_4
+  rotate: true
+  xy: 2, 113
+  size: 68, 93
+  orig: 68, 100
+  offset: 0, 7
+  index: -1
+amd_5
+  rotate: false
+  xy: 50, 3
+  size: 44, 44
+  orig: 64, 64
+  offset: 10, 10
+  index: -1
+amd_6
+  rotate: 270
+  xy: 2, 13
+  size: 44, 47
+  orig: 64, 68
+  offset: 10, 11
+  index: -1
+amd_7
+  rotate: 180
+  xy: 90, 293
+  size: 48, 48
+  orig: 68, 68
+  offset: 10, 10
+  index: -1
+amd_8
+  rotate: 270
+  xy: 30, 183
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+amd_9
+  rotate: true
+  xy: 96, 107
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1

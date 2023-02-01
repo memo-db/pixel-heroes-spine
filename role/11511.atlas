@@ -1,0 +1,104 @@
+
+11511.png
+size: 604,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou_0
+  rotate: false
+  xy: 238, 30
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+shitou_1
+  rotate: false
+  xy: 476, 42
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+shitou_10
+  rotate: false
+  xy: 391, 4
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+shitou_11
+  rotate: false
+  xy: 231, 8
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+shitou_12
+  rotate: false
+  xy: 398, 42
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+shitou_13
+  rotate: false
+  xy: 324, 34
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+shitou_2
+  rotate: false
+  xy: 144, 8
+  size: 86, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+shitou_3
+  rotate: true
+  xy: 550, 70
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+shitou_4
+  rotate: false
+  xy: 273, 4
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shitou_5
+  rotate: false
+  xy: 2, 122
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+shitou_6
+  rotate: false
+  xy: 144, 34
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+shitou_7
+  rotate: false
+  xy: 2, 2
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+shitou_8
+  rotate: false
+  xy: 550, 28
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shitou_9
+  rotate: false
+  xy: 324, 4
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1

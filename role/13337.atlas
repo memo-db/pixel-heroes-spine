@@ -1,0 +1,27 @@
+
+13337.png
+size: 106,35
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cz1
+  rotate: false
+  xy: 44, 3
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+cz2
+  rotate: false
+  xy: 81, 3
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+ll
+  rotate: false
+  xy: 2, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
