@@ -1,5 +1,6 @@
-var sort_by = "id";
+var id;
 var category = "character";
+var sort_by = "id";
 new function addEventListener() {
     const button_sort = document.getElementsByClassName("button_sort");
     for (var i = 0; i < button_sort.length; i++) {
@@ -45,20 +46,32 @@ new function createTable() {
                 <div class="item_id">
                     <label>
                         <input id="${item.id}" name="inventoryItems" type="radio" value="${item.id}">
-                            <span>${item.id}</span>
+                            <span>
+                                ${item.id}
+                            </span>
                         </input>
                     </label>
                 </div><!--
                 <div class="item_name">
                     <label for="${item.id}">
-                        <span>${item.name}</span>
+                        <span>
+                            ${item.name}
+                        </span>
                     </label>
                 </div>-->
                 <div class="item_content_rating">
-                    <label for="${item.id}">${item.content_rating}</label>
+                    <label for="${item.id}">
+                        <span>
+                            ${item.content_rating}
+                        <span>
+                    </label>
                 </div>
                 <div class="item_rating">
-                    <label for="${item.id}">${item.rating}</label>
+                    <label for="${item.id}">
+                        <span>
+                            ${item.rating}
+                        <span>
+                    </label>
                 </div>
             `
             form.appendChild(newItem);
@@ -78,21 +91,22 @@ new function createTable() {
         form.oninput = e => {
             loadingModel(form.inventoryItems.value);
             var url = window.location.href;
+            var urlPath = '/?category=' + category + '&id=' + form.inventoryItems.value;
             if (url.match(/\/$/) != null) {
-                url = url.replace(/\/$/, '/?id=' + form.inventoryItems.value);
+                url = url.replace(/\/$/, urlPath);
                 window.history.pushState(null, null, url);
             } else {
-                url = url.replace(/\/\?.*/, '/?id=' + form.inventoryItems.value);
+                url = url.replace(/\/\?.*/, urlPath);
                 window.history.pushState(null, null, url);
             }
         }
 
-        function loadingModel(value) {
+        function loadingModel(id) {
             const spine_canvas = document.querySelector('#spine_canvas');
             spine_canvas.innerHTML = '';
             new spine.SpinePlayer('spine_canvas', {
-                skelUrl: category + '/' + value + '.skel',
-                atlasUrl: category + '/' + value + '.atlas',
+                skelUrl: 'animation/' + category + '/' + id + '.skel',
+                atlasUrl: 'animation/' + category + '/' + id + '.atlas',
                 premultipliedAlpha: false,
                 showControls: false,
                 backgroundColor: "#00000000",

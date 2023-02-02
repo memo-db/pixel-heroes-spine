@@ -34,7 +34,7 @@ button, input[type="submit"], input[type="reset"] {
     font-size: 1.5em;
 }
 .title a:hover {
-    color: #80CBC4;
+    color: #fff;
 }
 .item_radio input[type=radio] {
     display: none;
