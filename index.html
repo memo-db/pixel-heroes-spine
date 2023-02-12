@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+    <meta charset="utf-8">
     <title>
         pixel-heroes-spine
     </title>
@@ -12,61 +13,64 @@
     @import "style/index.css";
 </style>
 <body>
-    <div id="spine_canvas">
+    <div id="container">
     </div>
-    <div class="right_panel">
-        <div class="title">
-            <a href="https://github.com/memo-db/pixel-heroes-spine" target="_blank">
-                pixel-heroes-spine
-            </a>
+    <div class="panel-main">
+        <div class="panel-header">
+            <div class="title">
+                <a href="https://github.com/memo-db/pixel-heroes-spine" target="_blank">
+                    pixel-heroes-spine</a>
+            </div>
         </div>
-        <div class="list_data">
-            <form>
-                <label class="item_radio" for="character">
-                    <input id="character" name="inventoryItems" type="radio" value="character">
-                        <span>
-                            character
-                        </span>
-                    </input>
-                </label>
-                <label class="item_radio" for="role">
-                    <input id="role" name="inventoryItems" type="radio" value="role">
-                        <span>
-                            role
-                        </span>
-                    </input>
-                </label>
-            </form>
-            <div class="item_container">
-                <div class="table_header">
-                    <div class="item_id">
-                        <button class="button_sort" data="id">
+        <div class="list-container">
+            <div class="list-main">
+                <form>
+                    <label class="list-item" for="character">
+                        <input id="character" name="inventoryItems" type="radio" value="character">
+                            <span>
+                                character
+                            </span>
+                        </input>
+                    </label>
+                    <label class="list-item" for="role">
+                        <input id="role" name="inventoryItems" type="radio" value="role">
+                            <span>
+                                role
+                            </span>
+                        </input>
+                    </label>
+                </form>
+            </div>
+            <div class="list-sub">
+                <div class="list-header">
+                    <div class="list-item">
+                        <button class="button-sort" data="id">
                             id
                         </button>
                     </div>
                     <!--
-                    <div class="item_name">
-                        <button class="button_sort" data="name">
+                    <div class="list-item">
+                        <button class="button-sort" data="name">
                             name
                         </button>
                     </div>-->
-                    <div class="item_content_rating">
-                        <button class="button_sort" data="content_rating">
+                    <div class="list-item">
+                        <button class="button-sort" data="content_rating">
                             c
                         </button>
                     </div>
-                    <div class="item_rating">
-                        <button class="button_sort" data="rating">
+                    <div class="list-item">
+                        <button class="button-sort" data="rating">
                             r
                         </button>
                     </div>
                 </div>
-                <form action="" id="input4radio">
+                <form id="list-data">
                 </form>
             </div>
         </div>
     </div>
-    <script src="script/spine-player_3.8.95.js">
+    <script src="script/spine-player_3.8.js">
     </script>
     <script src="script/index.js">
     </script>

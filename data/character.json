@@ -190,6 +190,10 @@
     }, {
         "id": "10404",
         "content_rating": "2",
+        "rating": "3"
+    }, {
+        "id": "10404_01",
+        "content_rating": "2",
         "rating": "4"
     }, {
         "id": "10405",
@@ -263,6 +267,10 @@
         "id": "10509",
         "content_rating": "3",
         "rating": "4"
+    }, {
+        "id": "11220",
+        "content_rating": "0",
+        "rating": "3"
     }, {
         "id": "11300",
         "content_rating": "1",
