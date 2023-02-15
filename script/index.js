@@ -58,8 +58,8 @@ function loadingModel() {
     const container = document.querySelector('#container');
     container.innerHTML = '';
     new spine.SpinePlayer('container', {
-        skelUrl: 'assets/animation/' + category + '/' + id + '.skel',
-        atlasUrl: 'assets/animation/' + category + '/' + id + '.atlas',
+        skelUrl: 'asset/animation/' + category + '/' + id + '.skel',
+        atlasUrl: 'asset/animation/' + category + '/' + id + '.atlas',
         premultipliedAlpha: false,
         showControls: false,
         backgroundColor: "#00000000",
@@ -135,7 +135,7 @@ function createTable() {
                     <div class="grid-item">
                         <input id="${item.id}" name="inventoryItems" type="radio" value="${item.id}">
                         <label for="${item.id}">
-                            <img class="cover" src="assets/images/icon/card/${item.id}.png" alt="${item.id}">
+                            <img class="cover" src="asset/images/icon/card/${item.id}.png" alt="${item.id}">
                         </label>
                     </div>`
                     data[category].sort(date_sort);
