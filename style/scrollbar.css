@@ -2,7 +2,7 @@
 
 * {
     scrollbar-width: auto;
-    scrollbar-color: #4C7870 #222d33;
+    scrollbar-color: var(--dark-green) var(--dark-gray);
 }
 /* Chromium, Safari */
 
@@ -10,10 +10,10 @@
     width: 4px;
 }
 *::-webkit-scrollbar-track {
-    background: #222d33;
+    background: var(--dark-gray);
 }
 *::-webkit-scrollbar-thumb {
-    background-color: #4C7870;
+    background-color: var(--dark-green);
     border-radius: 0px;
     border: 0px solid #ffffff;
 }

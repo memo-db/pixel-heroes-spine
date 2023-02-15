@@ -1,5 +1,11 @@
-{
-    font-family: sans-serif;
+@import "scrollbar.css";
+@import "spine-player_3.8.css";
+:root {
+  --white: #ECEFF1;
+  --slate-gray: #263238;
+  --dark-gray: #222d33;
+  --light-green: #80CBC4;
+  --dark-green: #4C7870;;
 }
 html {
     height: 100%;
@@ -10,11 +16,11 @@ body {
     height: 100%;
     margin: 0;
     overflow: hidden;
-    background: #263238;
+    background: var(--slate-gray);
 }
 button, input[type="submit"], input[type="reset"] {
     background: none;
-    color: #80CBC4;
+    color: var(--light-green);
     border: none;
     padding: 0;
     font: inherit;
@@ -25,25 +31,25 @@ li {
     list-style: none;
 }
 a {
-    color: #80CBC4;
+    color: var(--light-green);
     text-decoration: inherit;
     font-size: 1.5em;
 }
 a:hover {
-    color: #fff;
+    color: var(--white);
 }
 #container {
     margin: 1em 0.5em 0em 1em;
     width: calc(80% - 1.5em);
     height: calc(100% - 2em);
-    background: #222d33;
+    background: var(--dark-gray);
 }
 .panel-header {
     display: flex;
     flex-direction: column;
     position: sticky;
     top: 0;
-    background: #222d33;
+    background: var(--dark-gray);
 }
 .panel-header .title {
     display: flex;
@@ -62,16 +68,17 @@ a:hover {
     height: calc(100% - 2em);
     box-sizing: border-box;
     overflow: auto;
-    color: #4C7870;
-    background: #222d33;
+    color: var(--dark-green);
+    background: var(--dark-gray);
 }
 .view-mode {
     margin-left: auto;
 }
 .grid-item {
-    width: 25%;
+    width: calc(25% - 4px);;
     aspect-ratio: 1;
     overflow: hidden;
+    padding: 2px;
 }
 .grid-item input {
     width: 100%;
@@ -115,10 +122,10 @@ input[type=radio] {
     padding: 2px;
 }
 .list-item:hover {
-    color: #80CBC4;
+    color: var(--light-green);
 }
 .list-item input[type=radio]:checked+span {
-    color: #80CBC4;
+    color: var(--light-green);
 }
 @media all and (orientation: landscape) {}
 @media all and (orientation: portrait) {}
