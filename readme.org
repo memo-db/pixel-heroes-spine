@@ -20,7 +20,7 @@
 
 ** Assets Path
 #+BEGIN_SRC
-com.more2.pixel.heroes.gp,xapk
+com.more2.pixel.heroes.gp.xapk
 └game_asset.apk>
  └assets/res/
   ├animation/
