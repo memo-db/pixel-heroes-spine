@@ -6,7 +6,9 @@
     </title>
     <link href="icon.png" rel="icon" type="image/png">
     </link>
-    <link href="style/spine-player_3.8.95.css" rel="stylesheet">
+    <link href="style/fontawesome.min_6.3.0.css" rel="stylesheet">
+    </link>
+    <link href="style/spine-player_3.8.css" rel="stylesheet">
     </link>
 </head>
 <style>
@@ -21,53 +23,57 @@
                 <a href="https://github.com/memo-db/pixel-heroes-spine" target="_blank">
                     pixel-heroes-spine</a>
             </div>
-        </div>
-        <div class="list-container">
-            <div class="list-main">
-                <form>
-                    <label class="list-item" for="character">
-                        <input id="character" name="inventoryItems" type="radio" value="character">
-                            <span>
-                                character
-                            </span>
-                        </input>
-                    </label>
-                    <label class="list-item" for="role">
-                        <input id="role" name="inventoryItems" type="radio" value="role">
-                            <span>
-                                role
-                            </span>
-                        </input>
-                    </label>
-                </form>
-            </div>
-            <div class="list-sub">
-                <div class="list-header">
-                    <div class="list-item">
-                        <button class="button-sort" data="id">
-                            id
-                        </button>
-                    </div>
-                    <!--
-                    <div class="list-item">
-                        <button class="button-sort" data="name">
-                            name
-                        </button>
-                    </div>-->
-                    <div class="list-item">
-                        <button class="button-sort" data="content_rating">
-                            c
-                        </button>
-                    </div>
-                    <div class="list-item">
-                        <button class="button-sort" data="rating">
-                            r
-                        </button>
-                    </div>
+            <div class="list-top">
+                <div class="list-main">
+                    <form>
+                        <label class="list-item" for="character">
+                            <input id="character" name="inventoryItems" type="radio" value="character">
+                                <span>character</span>
+                            </input>
+                        </label>
+                        <label class="list-item" for="role">
+                            <input id="role" name="inventoryItems" type="radio" value="role">
+                                <span>role</span>
+                            </input>
+                        </label>
+                    </form>
                 </div>
-                <form id="list-data">
-                </form>
+                <div class="view-mode">
+                    <form>
+                        <label class="list-item" for="list-view">
+                            <input id="list-view" name="inventoryItems" type="radio" value="list">
+                                <span>list</span>
+                            </input>
+                        </label>
+                        <label class="list-item" for="grid-view">
+                            <input id="grid-view" name="inventoryItems" type="radio" value="grid">
+                                <span>grid</span>
+                            </input>
+                        </label>
+                    </form>
+                </div>
             </div>
+        </div>
+        <div class="list-sub">
+            <div class="list-header">
+                <div class="list-item">
+                    <button class="button-sort" data="id">id</button>
+                </div>
+                <!--
+                <div class="list-item">
+                    <button class="button-sort" data="name">
+                        name
+                    </button>
+                </div>-->
+                <div class="list-item">
+                    <button class="button-sort" data="content_rating">c</button>
+                </div>
+                <div class="list-item">
+                    <button class="button-sort" data="rating">r</button>
+                </div>
+            </div>
+            <form id="container-data">
+            </form>
         </div>
     </div>
     <script src="script/spine-player_3.8.js">

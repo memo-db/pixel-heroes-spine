@@ -10,13 +10,24 @@
 | 1.4.2 | 2023-01-27 |
 
 ** Game Info
-| Game name | 馬賽克英雄 |
+| Game name  | 馬賽克英雄 (zh-Hant-TW) / Pixel Heroes (en) |
 | Version | 1.4.2 |
 | Update date | 2023-01-17 |
 | Release date | 2023-01-03 |
 | Spine ver | 3.8.79 |
 | Google Play | https://play.google.com/store/apps/details?id=com.more2.pixel.heroes.gp |
 | App Store | https://apps.apple.com/app/id1642467815 |
+
+** Assets Path
+com.more2.pixel.heroes.gp,xapk
+└game_asset.apk
+ └assets/res/
+  ├animation/
+  │├character/
+  │└role/
+  └images/icon/
+   ├card/
+   └handBook/
 
 ** Decode Script
 [[script/png-decode.py]]

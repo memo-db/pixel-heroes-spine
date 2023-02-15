@@ -1,19 +1,27 @@
 var id;
-var category;
+var category = "character";
 var sortBy = "id";
-var i = 0;
+var viewMode = "list";
+var a = 0;
 new function addEventListener() {
-    const buttonSort = document.getElementsByClassName("button-sort");
+    const buttonSort = document.querySelectorAll(".button-sort");
     for (var i = 0; i < buttonSort.length; i++) {
         buttonSort[i].addEventListener('click', function(e) {
             sortBy = e.target.getAttribute("data");
             createTable();
         });
     };
-    const listItem = document.getElementsByClassName("list-item");
-    for (var i = 0; i < listItem.length; i++) {
-        listItem[i].addEventListener('click', function(e) {
+    const categoryItem = document.querySelectorAll("#character, #role");
+    for (var i = 0; i < categoryItem.length; i++) {
+        categoryItem[i].addEventListener('click', function(e) {
             category = e.target.getAttribute("value");
+            createTable();
+        });
+    };
+    const viewModeItem = document.querySelectorAll("#grid-view, #list-view");
+    for (var i = 0; i < viewModeItem.length; i++) {
+        viewModeItem[i].addEventListener('click', function(e) {
+            viewMode = e.target.getAttribute("value");
             createTable();
         });
     };
@@ -26,10 +34,11 @@ new function removeUrlExtension() {
 new function setUrlValue() {
     var url = window.location.href;
     id = getUrlValue('id');
-    category = getUrlValue('category');
     if (url.match(/\/$/) != null) {
         document.getElementById("character").click();
+        a++;
     } else {
+        category = getUrlValue('category');
         loadingModel();
     }
     if (url.match(/\/\?category=character/) != null) {
@@ -65,9 +74,9 @@ function loadingModel() {
 }
 
 function createTable() {
-    const form = document.querySelector('#list-data');
+    const form = document.querySelector('#container-data');
     form.innerHTML = '';
-    fetch('data/' + category + '.json').then((response) => response.json()).then((inventoryItems) => {
+    fetch('data/' + category + '.json').then((res) => res.json()).then((data) => {
         function date_sort(a, b) {
             switch (sortBy) {
                 case "id":
@@ -84,47 +93,55 @@ function createTable() {
                     break;
             }
         };
-
-        function createItem() {
-            let listData = document.createElement('div');
-            listData.classList.add('list-item');
-            listData.innerHTML = `
-                <div class="list-item">
-                    <label>
+        switch (viewMode) {
+            case "list":
+                document.getElementById('list-view').checked = true;
+                for (item of data[category]) {
+                    let listData = document.createElement('div');
+                    listData.classList.add('row-item');
+                    listData.innerHTML = `
+                    <div class="list-item">
+                        <label>
+                            <input id="${item.id}" name="inventoryItems" type="radio" value="${item.id}">
+                                <span>${item.id}</span>
+                            </input>
+                        </label>
+                    </div><!--
+                    <div class="list-item">
+                        <label for="${item.id}">
+                            <span>${item.name}</span>
+                        </label>
+                    </div>-->
+                    <div class="list-item">
+                        <label for="${item.id}">
+                            <span>${item.content_rating}<span>
+                        </label>
+                    </div>
+                    <div class="list-item">
+                        <label for="${item.id}">
+                            <span>${item.rating}<span>
+                        </label>
+                    </div>`
+                    data[category].sort(date_sort);
+                    form.appendChild(listData);
+                }
+                break;
+            case "grid":
+                document.getElementById('grid-view').checked = true;
+                let listData = document.createElement('div');
+                listData.classList.add('grid-container');
+                for (item of data[category]) {
+                    listData.innerHTML += `
+                    <div class="grid-item">
                         <input id="${item.id}" name="inventoryItems" type="radio" value="${item.id}">
-                            <span>${item.id}</span>
-                        </input>
-                    </label>
-                </div><!--
-                <div class="list-item">
-                    <label for="${item.id}">
-                        <span>${item.name}</span>
-                    </label>
-                </div>-->
-                <div class="list-item">
-                    <label for="${item.id}">
-                        <span>${item.content_rating}<span>
-                    </label>
-                </div>
-                <div class="list-item">
-                    <label for="${item.id}">
-                        <span>${item.rating}<span>
-                    </label>
-                </div>
-            `
-            form.appendChild(listData);
-        }
-        if (category == "character") {
-            inventoryItems.character.sort(date_sort);
-            for (item of inventoryItems.character) {
-                createItem();
-            }
-        }
-        if (category == "role") {
-            inventoryItems.role.sort(date_sort);
-            for (item of inventoryItems.role) {
-                createItem();
-            }
+                        <label for="${item.id}">
+                            <img class="cover" src="images/icon/card/${item.id}.png" alt="${item.id}">
+                        </label>
+                    </div>`
+                    data[category].sort(date_sort);
+                    form.appendChild(listData);
+                }
+                break;
         }
         form.oninput = e => {
             id = form.inventoryItems.value;
@@ -139,9 +156,9 @@ function createTable() {
                 window.history.pushState(null, null, url);
             }
         }
-        if (i == 0) {
+        if (a == 0) {
             document.getElementById(id).checked = true;
-            i++;
+            a++;
         }
     });
 };

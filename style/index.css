@@ -24,14 +24,39 @@ button, input[type="submit"], input[type="reset"] {
 li {
     list-style: none;
 }
+a {
+    color: #80CBC4;
+    text-decoration: inherit;
+    font-size: 1.5em;
+}
+a:hover {
+    color: #fff;
+}
 #container {
     margin: 1em 0.5em 0em 1em;
     width: calc(80% - 1.5em);
     height: calc(100% - 2em);
     background: #222d33;
 }
+.panel-header {
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 0;
+    background: #222d33;
+}
+.panel-header .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    padding: 0.5em 0;
+}
+.list-top {
+    display: flex;
+}
 .panel-main {
-    padding: 0.5em 1em;
+    padding: 0 1em;
     margin: 1em 1em 0em 0.5em;
     width: calc(20% - 1.5em);
     height: calc(100% - 2em);
@@ -40,25 +65,26 @@ li {
     color: #4C7870;
     background: #222d33;
 }
-.panel-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 2px;
+.view-mode {
+    margin-left: auto;
 }
-.panel-header .title a {
-    color: #80CBC4;
-    text-decoration: inherit;
-    font-size: 1.5em;
+.grid-item {
+    width: 25%;
+    aspect-ratio: 1;
+    overflow: hidden;
 }
-.panel-header .title a:hover {
-    color: #fff;
+.grid-item .cover {
+    object-fit: cover;
 }
-.list-header, .list-main, #list-data>div {
+.list-header, .list-main, .view-mode, #container-data .row-item {
     display: flex;
     padding: 2px;
 }
-#list-data label {
+.grid-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+#row-item label {
     display: inline-block;
     width: 100%;
     height: 100%;
@@ -75,12 +101,12 @@ li {
     padding: 2px;
 }*/
 
+input[type=radio] {
+    display: none;
+}
 .list-item:nth-child(1n+2) {
     flex: 1;
     padding: 2px;
-}
-.list-item input[type=radio] {
-    display: none;
 }
 .list-item:hover {
     color: #80CBC4;
