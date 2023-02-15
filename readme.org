@@ -19,18 +19,18 @@
 | App Store | https://apps.apple.com/app/id1642467815 |
 
 ** Assets Path
-com.more2.pixel.heroes.gp,xapk\\
-└game_asset.apk\\
- └assets/res/\\
-  ├animation/\\
-  │├character/\\
-  │└role/\\
-  └images/icon/\\
-   ├card/\\
-   └handBook/\\
+com.more2.pixel.heroes.gp,xapk<br>
+└game_asset.apk<br>
+ └assets/res/<br>
+  ├animation/<br>
+  │├character/<br>
+  │└role/<br>
+  └images/icon/<br>
+   ├card/<br>
+   └handBook/<br>
 
 ** Decode Script
-[[script/png-decode.py]]\\
+[[script/png-decode.py]]<br>
 [[https://bangumi.tv/group/topic/377356][Technical Support]]: [[https://github.com/ngc7331][小造xu_zh]]
 
 ** Used Libraries
