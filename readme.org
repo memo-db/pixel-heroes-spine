@@ -1,3 +1,4 @@
+#+OPTIONS: \n:t
 * pixel-heroes-spine
 
 ** Online Viewer:
