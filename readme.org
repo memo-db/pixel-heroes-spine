@@ -1,5 +1,3 @@
-#+OPTIONS: \n:t
-
 * pixel-heroes-spine
 
 ** Online Viewer:
@@ -21,19 +19,18 @@
 | App Store | https://apps.apple.com/app/id1642467815 |
 
 ** Assets Path
-com.more2.pixel.heroes.gp,xapk
-└game_asset.apk
- └assets/res/
-  ├animation/
-  │├character/
-  │└role/
-  └images/icon/
-   ├card/
-   └handBook/
+com.more2.pixel.heroes.gp,xapk\\
+└game_asset.apk\\
+ └assets/res/\\
+  ├animation/\\
+  │├character/\\
+  │└role/\\
+  └images/icon/\\
+   ├card/\\
+   └handBook/\\
 
 ** Decode Script
-[[script/png-decode.py]]
-
+[[script/png-decode.py]]\\
 [[https://bangumi.tv/group/topic/377356][Technical Support]]: [[https://github.com/ngc7331][小造xu_zh]]
 
 ** Used Libraries
