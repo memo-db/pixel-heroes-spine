@@ -1,11 +1,12 @@
 @import "scrollbar.css";
 @import "spine-player_3.8.css";
 :root {
-  --white: #ECEFF1;
-  --slate-gray: #263238;
-  --dark-gray: #222d33;
-  --light-green: #80CBC4;
-  --dark-green: #4C7870;;
+    --white: #ECEFF1;
+    --slate-gray: #263238;
+    --dark-gray: #222d33;
+    --light-green: #80CBC4;
+    --dark-green: #4C7870;
+    ;
 }
 html {
     height: 100%;
@@ -15,7 +16,6 @@ body {
     display: flex;
     height: 100%;
     margin: 0;
-    overflow: hidden;
     background: var(--slate-gray);
 }
 button, input[type="submit"], input[type="reset"] {
@@ -26,6 +26,9 @@ button, input[type="submit"], input[type="reset"] {
     font: inherit;
     cursor: pointer;
     outline: inherit;
+}
+input[type=radio] {
+    display: none;
 }
 li {
     list-style: none;
@@ -75,7 +78,8 @@ a:hover {
     margin-left: auto;
 }
 .grid-item {
-    width: calc(25% - 4px);;
+    width: calc(25% - 4px);
+    ;
     aspect-ratio: 1;
     overflow: hidden;
     padding: 2px;
@@ -114,9 +118,6 @@ a:hover {
     padding: 2px;
 }*/
 
-input[type=radio] {
-    display: none;
-}
 .list-item:nth-child(1n+2) {
     flex: 1;
     padding: 2px;
@@ -127,5 +128,3 @@ input[type=radio] {
 .list-item input[type=radio]:checked+span {
     color: var(--light-green);
 }
-@media all and (orientation: landscape) {}
-@media all and (orientation: portrait) {}

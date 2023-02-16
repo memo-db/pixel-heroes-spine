@@ -55,7 +55,7 @@ function getUrlValue(key) {
 }
 
 function loadingModel() {
-    const container = document.querySelector('#container');
+    let container = document.querySelector('#container');
     container.innerHTML = '';
     new spine.SpinePlayer('container', {
         skelUrl: 'asset/animation/' + category + '/' + id + '.skel',
@@ -99,6 +99,7 @@ function createTable() {
                 for (item of data[category]) {
                     let listData = document.createElement('div');
                     listData.classList.add('row-item');
+                    form.appendChild(listData);
                     listData.innerHTML = `
                     <div class="list-item">
                         <label>
@@ -123,7 +124,6 @@ function createTable() {
                         </label>
                     </div>`
                     data[category].sort(date_sort);
-                    form.appendChild(listData);
                 }
                 break;
             case "grid":
@@ -135,7 +135,7 @@ function createTable() {
                     <div class="grid-item">
                         <input id="${item.id}" name="inventoryItems" type="radio" value="${item.id}">
                         <label for="${item.id}">
-                            <img class="cover" src="asset/images/icon/card/${item.id}.png" alt="${item.id}">
+                            <img class="cover" title="${item.id}\n${item.content_rating}\n${item.rating}" src="asset/images/icon/card/${item.id}.png" alt="${item.id}">
                         </label>
                     </div>`
                     data[category].sort(date_sort);

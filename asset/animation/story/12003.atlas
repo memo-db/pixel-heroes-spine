@@ -1,0 +1,41 @@
+
+12003.png
+size: 126,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s3_2
+  rotate: false
+  xy: 2, 288
+  size: 122, 170
+  orig: 122, 170
+  offset: 0, 0
+  index: -1
+s3_3
+  rotate: true
+  xy: 2, 3
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+s3_4
+  rotate: 270
+  xy: 25, 95
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+s3_5
+  rotate: true
+  xy: 2, 51
+  size: 54, 94
+  orig: 54, 94
+  offset: 0, 0
+  index: -1
+s3_6
+  rotate: true
+  xy: 2, 144
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1

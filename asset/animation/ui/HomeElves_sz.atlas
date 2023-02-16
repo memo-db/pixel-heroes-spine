@@ -1,0 +1,118 @@
+
+HomeElves_sz.png
+size: 390,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsz_biyan
+  rotate: true
+  xy: 191, 123
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+bsz_dhq
+  rotate: false
+  xy: 290, 60
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+bsz_ed_y
+  rotate: 180
+  xy: 319, 10
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+bsz_ed_z
+  rotate: 270
+  xy: 2, 3
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+bsz_h_youjiao
+  rotate: 180
+  xy: 180, 4
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+bsz_h_youtui
+  rotate: true
+  xy: 238, 14
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+bsz_h_zuojiao
+  rotate: false
+  xy: 352, 70
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+bsz_h_zuotui
+  rotate: 180
+  xy: 179, 193
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+bsz_pigu
+  rotate: true
+  xy: 2, 38
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+bsz_q_youjiao
+  rotate: 270
+  xy: 354, 197
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+bsz_q_youtui
+  rotate: 270
+  xy: 116, 22
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+bsz_q_zuojiao
+  rotate: 180
+  xy: 2, 193
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+bsz_q_zuotui
+  rotate: true
+  xy: 53, 21
+  size: 50, 58
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+bsz_tou
+  rotate: false
+  xy: 2, 73
+  size: 194, 162
+  orig: 194, 162
+  offset: 0, 0
+  index: -1
+bsz_wb
+  rotate: false
+  xy: 176, 54
+  size: 114, 181
+  orig: 114, 186
+  offset: 0, 5
+  index: -1
+bsz_xiong
+  rotate: 270
+  xy: 285, 118
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1

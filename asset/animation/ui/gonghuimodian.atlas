@@ -1,0 +1,230 @@
+
+gonghuimodian.png
+size: 999,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/book_1
+  rotate: false
+  xy: 2, 92
+  size: 192, 119
+  orig: 192, 119
+  offset: 0, 0
+  index: -1
+images/book_2
+  rotate: true
+  xy: 401, 6
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+images/book_4
+  rotate: false
+  xy: 267, 115
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+images/book_5
+  rotate: false
+  xy: 189, 112
+  size: 76, 99
+  orig: 76, 99
+  offset: 0, 0
+  index: -1
+images/book_bg_light2
+  rotate: false
+  xy: 2, 67
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+images/effects/ghmd_fw_01
+  rotate: false
+  xy: 828, 137
+  size: 64, 74
+  orig: 80, 80
+  offset: 7, 4
+  index: -1
+images/effects/ghmd_fw_02
+  rotate: false
+  xy: 696, 137
+  size: 65, 74
+  orig: 80, 80
+  offset: 6, 4
+  index: -1
+images/effects/ghmd_fw_03
+  rotate: false
+  xy: 763, 135
+  size: 63, 76
+  orig: 80, 80
+  offset: 7, 3
+  index: -1
+images/effects/ghmd_fw_04
+  rotate: false
+  xy: 830, 10
+  size: 56, 74
+  orig: 80, 80
+  offset: 11, 4
+  index: -1
+images/effects/ghmd_fw_05
+  rotate: true
+  xy: 900, 49
+  size: 60, 76
+  orig: 80, 80
+  offset: 9, 3
+  index: -1
+images/effects/guang
+  rotate: false
+  xy: 349, 10
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/effects/other-baihuan
+  rotate: false
+  xy: 524, 2
+  size: 59, 59
+  orig: 75, 75
+  offset: 8, 8
+  index: -1
+images/effects/xunhuanxulie_01
+  rotate: true
+  xy: 696, 86
+  size: 47, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_02
+  rotate: true
+  xy: 798, 86
+  size: 47, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_03
+  rotate: true
+  xy: 626, 40
+  size: 44, 100
+  orig: 50, 100
+  offset: 2, 0
+  index: -1
+images/effects/xunhuanxulie_04
+  rotate: true
+  xy: 728, 41
+  size: 43, 100
+  orig: 50, 100
+  offset: 1, 0
+  index: -1
+images/effects/xunhuanxulie_05
+  rotate: true
+  xy: 247, 19
+  size: 41, 100
+  orig: 50, 100
+  offset: 2, 0
+  index: -1
+images/effects/xunhuanxulie_06
+  rotate: true
+  xy: 145, 24
+  size: 42, 100
+  orig: 50, 100
+  offset: 2, 0
+  index: -1
+images/effects/xunhuanxulie_07
+  rotate: true
+  xy: 43, 48
+  size: 45, 100
+  orig: 50, 100
+  offset: 1, 0
+  index: -1
+images/effects/xunhuanxulie_08
+  rotate: false
+  xy: 900, 111
+  size: 47, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_09
+  rotate: false
+  xy: 949, 111
+  size: 47, 100
+  orig: 50, 100
+  offset: 1, 0
+  index: -1
+images/effects/xunhuanxulie_10
+  rotate: true
+  xy: 524, 63
+  size: 46, 100
+  orig: 50, 100
+  offset: 2, 0
+  index: -1
+images/effects/xunhuanxulie_11
+  rotate: true
+  xy: 218, 68
+  size: 47, 100
+  orig: 50, 100
+  offset: 1, 0
+  index: -1
+images/effects/xunhuanxulie_12
+  rotate: false
+  xy: 346, 111
+  size: 48, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_13
+  rotate: false
+  xy: 396, 111
+  size: 48, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_14
+  rotate: false
+  xy: 446, 111
+  size: 48, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_15
+  rotate: false
+  xy: 496, 111
+  size: 48, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_16
+  rotate: false
+  xy: 546, 111
+  size: 48, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_17
+  rotate: false
+  xy: 596, 111
+  size: 48, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_18
+  rotate: false
+  xy: 646, 111
+  size: 48, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_19
+  rotate: true
+  xy: 320, 62
+  size: 47, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+images/effects/xunhuanxulie_20
+  rotate: true
+  xy: 422, 62
+  size: 47, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1

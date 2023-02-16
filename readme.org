@@ -25,7 +25,9 @@ com.more2.pixel.heroes.gp.xapk
  └assets/res/
   ├animation/
   │├character/
-  │└role/
+  │├role/
+  │├story/
+  │└ui/(featured)
   └images/icon/
    ├card/
    └handBook/
